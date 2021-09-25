@@ -19,6 +19,7 @@ public struct Weather {
     description = response.weather.first?.description ?? ""
         iconName = response.weather.first?.iconName ?? ""
     
+        
     }
 }
 

@@ -23,6 +23,7 @@ struct WeatherView: View {
             Text ("Clear sky")
 
         }
+        
     }
 }
 
